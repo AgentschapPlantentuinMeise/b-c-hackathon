@@ -19,4 +19,6 @@ or more cubes.
 
 ## Hackathon impact
 
-Using this template will also allow us to track the impact of the hackathon and report on it. Thanks for helping out!
+Using this template will also allow us to track the impact of the hackathon and report on it.
+In fact, we will try to run each hackathon project script with the cubes from all the other projects.
+Thanks for thinking ahead by creating reusable code and helping out to make the hackathon a big success!
